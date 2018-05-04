@@ -1,4 +1,4 @@
-baseURL = "http://most323.github.io/"
+baseURL = "https://most323.github.io/"
 languageCode = "en-us"
 title = "Jinho Lee"
 publishDir = "docs"
