@@ -9,3 +9,5 @@ outputs:
 - rss
 - json
 ---
+version1
+
