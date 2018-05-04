@@ -1,11 +1,11 @@
-baseURL = "https://most323.github.io/officialWebSite/"
+baseURL = "https://most323.github.io/officialWebSite"
 languageCode = "en-us"
 title = "Jinho Lee"
 publishDir = "docs"
 theme = "resume"
 
 [params]
-    firstName = "Jinhgfo"
+    firstName = "Jinho"
     lastName = "Lee"
     address = "SungKyunKwan University(SKKU), South Korea"
     contactNote = "Dev Tools Engineer"
