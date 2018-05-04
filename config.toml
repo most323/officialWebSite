@@ -5,7 +5,7 @@ publishDir = "docs"
 theme = "resume"
 
 [params]
-    firstName = "Jinho"
+    firstName = "Jinh2o"
     lastName = "Lee"
     address = "SungKyunKwan University(SKKU), South Korea"
     contactNote = "Dev Tools Engineer"
