@@ -132,6 +132,7 @@ section.resume-section .resume-item .resume-date {
 
 .text-primary {
   color: #6B5B95 !important;
+  font-family : "Times New Roman", Times;
 }
 
 a {
