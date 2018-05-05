@@ -25,6 +25,11 @@
             <a class="nav-link js-scroll-trigger" href="#projects">Projects</a>
           </li>
       {{ end }}
+      {{ if .Site.Params.showTest }}
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#test">Test</a>
+          </li>
+      {{ end }}
       {{ if .Site.Params.showOpenSource }}
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#open">Open Source</a>

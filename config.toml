@@ -18,6 +18,7 @@ theme = "resume"
     showProjects = true
     showOpenSource = true
     showPublications = true
+    showTest = true
     showExperience = true
     showEducation = true
 

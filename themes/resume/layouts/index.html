@@ -9,6 +9,12 @@
          {{ partial "sectionSummary" . }}
       {{ end }}
    {{ end }}
+   {{ if .Site.Params.showTest }}
+      {{ with .Site.GetPage "section" "test/creations" }}
+         {{ .Scratch.Add "sectionId" "test" }}
+         {{ partial "sectionSummary" . }}
+      {{ end }}
+   {{ end }}
    {{ if .Site.Params.showOpenSource }}
       {{ with .Site.GetPage "section" "projects/contributions" }}
          {{ .Scratch.Add "sectionId" "open" }}
