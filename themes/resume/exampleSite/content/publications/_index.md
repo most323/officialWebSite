@@ -1,6 +1,7 @@
 ---
-title: "Publications"
+title: "Open Source Contributions"
 sitemap:
-  priority : 0.6
+  priority : 0.5
+weight: 20
 ---
-A collection of articles, presentations or talks, most likely on Culture and DevOps, because let's admit it, they are one in the same ;)
+<p>A collection of efforts to which I contributed, but did not create. Contributing back to Open Source projects is a strong passion of mine, and requires a considerate approach to learn norms, standards and approach for each community for a successful merge!</p>

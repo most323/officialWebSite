@@ -6,37 +6,9 @@
     <description>Recent content in Tags on Jinho Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://most323.github.io/officialWebSite/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Agile</title>
-      <link>https://most323.github.io/officialWebSite/tags/agile/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/agile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atlassian Developer Ecosystem</title>
-      <link>https://most323.github.io/officialWebSite/tags/atlassian-developer-ecosystem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/atlassian-developer-ecosystem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atlassian Ecosystem</title>
-      <link>https://most323.github.io/officialWebSite/tags/atlassian-ecosystem/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/atlassian-ecosystem/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Bamboo</title>
@@ -44,87 +16,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://most323.github.io/officialWebSite/tags/bamboo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bash/Shell</title>
-      <link>https://most323.github.io/officialWebSite/tags/bash/shell/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/bash/shell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bitbucket</title>
-      <link>https://most323.github.io/officialWebSite/tags/bitbucket/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/bitbucket/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bosh</title>
-      <link>https://most323.github.io/officialWebSite/tags/bosh/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/bosh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ci/Cd Pipelines</title>
-      <link>https://most323.github.io/officialWebSite/tags/ci/cd-pipelines/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/ci/cd-pipelines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Confluence</title>
-      <link>https://most323.github.io/officialWebSite/tags/confluence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/confluence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous Delivery</title>
-      <link>https://most323.github.io/officialWebSite/tags/continuous-delivery/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/continuous-delivery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous Integration</title>
-      <link>https://most323.github.io/officialWebSite/tags/continuous-integration/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/continuous-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Culture</title>
-      <link>https://most323.github.io/officialWebSite/tags/culture/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/culture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Devops</title>
-      <link>https://most323.github.io/officialWebSite/tags/devops/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/devops/</guid>
       <description></description>
     </item>
     
@@ -140,7 +31,7 @@
     <item>
       <title>Java</title>
       <link>https://most323.github.io/officialWebSite/tags/java/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://most323.github.io/officialWebSite/tags/java/</guid>
       <description></description>
@@ -152,15 +43,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://most323.github.io/officialWebSite/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jira</title>
-      <link>https://most323.github.io/officialWebSite/tags/jira/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/jira/</guid>
       <description></description>
     </item>
     
@@ -183,24 +65,6 @@
     </item>
     
     <item>
-      <title>Maven</title>
-      <link>https://most323.github.io/officialWebSite/tags/maven/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/maven/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monit</title>
-      <link>https://most323.github.io/officialWebSite/tags/monit/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/monit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Node.js</title>
       <link>https://most323.github.io/officialWebSite/tags/node.js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -210,38 +74,11 @@
     </item>
     
     <item>
-      <title>Python</title>
-      <link>https://most323.github.io/officialWebSite/tags/python/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rest Apis</title>
       <link>https://most323.github.io/officialWebSite/tags/rest-apis/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/rest-apis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring</title>
-      <link>https://most323.github.io/officialWebSite/tags/spring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://most323.github.io/officialWebSite/tags/spring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xml/Xslt</title>
-      <link>https://most323.github.io/officialWebSite/tags/xml/xslt/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://most323.github.io/officialWebSite/tags/xml/xslt/</guid>
+      <guid>https://most323.github.io/officialWebSite/tags/rest-apis/</guid>
       <description></description>
     </item>
     

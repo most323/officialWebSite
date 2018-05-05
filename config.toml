@@ -14,13 +14,15 @@ theme = "resume"
     description = "Software Developer"
     favicon = "images/favicon.ico"
     # what sections
-    showSkills = true
-    showProjects = true
-    showOpenSource = true
-    showPublications = true
-    showTest = true
-    showExperience = true
+    showInterests = true
     showEducation = true
+    showSkills = true
+    showLanguage = true
+#    showPublications = true
+    showResearch = true
+    showCareers = true
+    showProjects = true
+    showAwards = true
 
     showQr = true
 
