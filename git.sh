@@ -3,6 +3,5 @@
 hugo
 git add --all
 git commit -m "ddd"
-git push;\
-most323
+git push > gitInfo
 
