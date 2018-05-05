@@ -17,10 +17,11 @@ theme = "resume"
     showSkills = true
     showProjects = true
     showOpenSource = true
-  #  showPublications = true
+    showPublications = true
     showTest = true
     showExperience = true
     showEducation = true
+    showActivities = true
 
     showQr = true
 

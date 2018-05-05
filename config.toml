@@ -18,11 +18,12 @@ theme = "resume"
     showEducation = true
     showSkills = true
     showLanguage = true
-#    showPublications = true
+    showPublications = true
     showResearch = true
     showCareers = true
     showProjects = true
     showAwards = true
+    showActivities = true
 
     showQr = true
 

@@ -39,4 +39,12 @@
    {{ if .Site.Params.showAwards }}
        {{ partial "portfolio/awards.html" . }}
    {{ end }}
+
+   {{ if .Site.Params.showActivities }}
+      {{ with .Site.GetPage "section" "activities" }}
+         {{ .Scratch.Add "sectionId" "activities" }}
+         {{ partial "sectionSummary" . }}
+      {{ end }}
+   {{ end }}
+
 {{ end }}

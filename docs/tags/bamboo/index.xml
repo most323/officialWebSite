@@ -12,6 +12,15 @@
     
     <item>
       <title>Atlassian Deployment Triggers</title>
+      <link>https://most323.github.io/officialWebSite/activities/deploy-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://most323.github.io/officialWebSite/activities/deploy-triggers/</guid>
+      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+    </item>
+    
+    <item>
+      <title>Atlassian Deployment Triggers</title>
       <link>https://most323.github.io/officialWebSite/publications/deploy-triggers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

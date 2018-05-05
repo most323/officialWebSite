@@ -57,6 +57,11 @@
             <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
           </li>
       {{ end }}
+      {{ if .Site.Params.showActivities }}
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#activities">Extracurricular Activities</a>
+          </li>
+      {{ end }}
     </ul>
   </div>
 </nav>

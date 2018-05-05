@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://most323.github.io/officialWebSite/activities/</loc>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://most323.github.io/officialWebSite/publications/</loc>
     <priority>0.5</priority>
   </url>
@@ -10,6 +15,11 @@
   <url>
     <loc>https://most323.github.io/officialWebSite/research/</loc>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://most323.github.io/officialWebSite/activities/deploy-triggers/</loc>
+    <priority>0.8</priority>
   </url>
   
   <url>
@@ -23,12 +33,22 @@
   </url>
   
   <url>
+    <loc>https://most323.github.io/officialWebSite/activities/shields-docker/</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>https://most323.github.io/officialWebSite/publications/shields-docker/</loc>
     <priority>0.8</priority>
   </url>
   
   <url>
     <loc>https://most323.github.io/officialWebSite/research/shields-docker/</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://most323.github.io/officialWebSite/activities/schema-org/</loc>
     <priority>0.8</priority>
   </url>
   
