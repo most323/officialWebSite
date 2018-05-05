@@ -146,15 +146,21 @@ img {
 }
 
 #mainName {
-	font-size : 100px;
+	font-size : 70px;
 	font-weight: 400;
 	margin-bottom:15px;
 }
 
-#navMyName {
-	font-size : 35px;
+#navMyName {			//Whole Page
+	font-size : 30px;
 	font-weight: 400;
-	margin-top:50px;
-	margin-bottom:30px;
+	margin-top:40px;
+	margin-bottom:25px;
+
+}
+#navName{			//Small page
+
+	font-color : black;
+	font-size : 20px;
 
 }
