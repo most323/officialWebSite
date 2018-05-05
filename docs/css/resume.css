@@ -34,7 +34,8 @@ h2 {
 .subheading {
   font-weight: 500;
   font-family: 'Saira Extra Condensed', serif;
-  font-size: 1.35rem;
+  font-size: 1.3rem;
+  font-color: gray;
 }
 
 .list-social-icons a {
@@ -147,5 +148,6 @@ img {
 #mainName {
 	font-size : 100px;
 	font-weight: 400;
-
+	margin-bottom:15px;
 }
+
