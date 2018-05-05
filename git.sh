@@ -6,3 +6,4 @@ git add --all
 git commit -m "ddd"
 git push
 
+sleep(1)
